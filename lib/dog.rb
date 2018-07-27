@@ -2,8 +2,8 @@
 class Dog
 end
 
-# def dogs(bark)
-#   puts "#{bark}!"
-# end
-# end 
-# dogs(woof)
+def dogs(bark)
+  puts "#{bark}!"
+end
+end 
+dogs(woof)
