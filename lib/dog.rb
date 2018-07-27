@@ -1,9 +1,11 @@
 # dog.rb
 class Dog
-end
 
-def dogs(bark)
-  puts "#{bark}!"
+def bark
+  puts "Woof"
+  
+def sit
+  puts "The Dog is sitting"
 end
-end 
-dogs(woof)
+end
+  
